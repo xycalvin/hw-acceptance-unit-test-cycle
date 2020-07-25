@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/xycalvin/hw-acceptance-unit-test-cycle.svg?branch=master)](https://travis-ci.org/xycalvin/hw-acceptance-unit-test-cycle)
+
 Acceptance-Unit Test Cycle
 ===
 
