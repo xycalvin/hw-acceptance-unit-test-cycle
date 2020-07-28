@@ -3,6 +3,6 @@ module MoviesHelper
 
   # unit tests for oddness
   def oddness(count)
-    count.odd? ?  "odd" :  "even"
+    #count.odd? ?  "odd" :  "even"
   end
 end
